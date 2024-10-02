@@ -1,2 +1,2 @@
 # Insurance-price-prediction
-Insurance price prediction using Logistic regression
+Insurance price prediction using Linear regression
